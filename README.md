@@ -14,7 +14,6 @@ Python/
 ├── 08_Control_Flow/
 ├── 09_Loops/
 ├── 10_Functions/
-└── README.md
 ```
 
 ## Goal
