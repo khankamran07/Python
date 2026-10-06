@@ -1,6 +1,6 @@
 This repository contains my Python learning notes, concepts, examples, and practice programs. I am building this repository step by step to strengthen my Python programming fundamentals for Data Science, Machine Learning, and Software Development.
 
-## Topics Covered
+### Topics Covered
 ```
 Python/
 │
@@ -16,7 +16,7 @@ Python/
 ├── 10_Functions/
 ```
 
-## Goal
+### Goal
 The goal of this repository is to build a strong foundation in Python and gradually move towards:
 1. Data Analysis
 2. Machine Learning
@@ -24,17 +24,16 @@ The goal of this repository is to build a strong foundation in Python and gradua
 4. Generative AI
 5. Software Development
 
-## Tools Used
+### Tools Used
 Python
 Jupyter Notebook
 VS Code
 Git
 GitHub
 
-## Learning Progress
-
+### Learning Progress
 I will continuously update this repository as I learn new Python concepts and practice programming problems.
 
- ## Author
+### Author
 Kamran Khan
 
